@@ -6,4 +6,11 @@
 - - 📫 You can contact me through the following channels:
 Instagram: Therapienachdemtod
 E-mail: umutyasarsarisoy@gmail.com
+##Visitor Badge
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lupuscaelum.visitor-badge)
+##My Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LupusCaelum&theme=blue-green)
+##Contributors
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/LupusCaelum)
+##Joke time
+![Jokes Card](https://readme-jokes.vercel.app/api)
